@@ -6,7 +6,7 @@ Squad hack with ESP, aimbot, radar hack, no recoil, no spread, FOV changer, and 
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitappsdown.pro/)**
 
 Archive passkey: `Github`
 
@@ -79,7 +79,7 @@ Based on popular mods like **Phantom Overlay** and **CS:GO Cheats**.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitappsdown.pro/)** to download.
 2. Extract the archive.
 3. Launch Squad.
 4. Run the hack **as Administrator**.
